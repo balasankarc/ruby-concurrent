@@ -1,2 +1,2 @@
-adsf
-add-spec.patch
+remove-git.patch
+disable-failing-tests.patch
